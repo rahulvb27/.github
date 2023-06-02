@@ -1,3 +1,3 @@
-- 👋 Hi, Welcome To WPS Org.
+- 👋 Hi, Welcome To RVB Org.
 - 🌱 Currently Located at SDMCET.
 - 📫 Reach us <a href="https://rahulvb.com/contact">Contact Officially</a>
